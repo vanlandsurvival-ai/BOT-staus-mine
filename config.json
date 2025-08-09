@@ -1,20 +1,20 @@
 {
     "bot": {
-        "token": "bottoken",
+        "token": "MTQwMzc3MDk3MTc3MjQyMDMzNg.GCo_Mo.yMh4o9de2-LcMzQMZgcZGo7_gaIlAzQYJUOZQg",
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Minecraft Servers",
+                "name": "VANLAND SURVIVAL",
                 "type": "WATCHING"
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
+            "name": "VANLAND SURVIVAL",
+            "ip": "vanland.ddns.net",
             "port": 25565,
-            "channelId": "1361757965014798526",
+            "channelId": "1259514823910096906",
             "updateInterval": 30000,
             "display": {
                 "type": "chart",
